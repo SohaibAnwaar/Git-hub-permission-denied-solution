@@ -1,4 +1,7 @@
-Solution :
+# Problem Git hub -permission denied Solution
+
+# Solution : 
+
 you have to add you ssh key in your git-hub profile. Follow steps to solve this problem
 
 1. Right Click Folder you want to push in git
@@ -27,3 +30,15 @@ Now you are ready to push your folder
 8. git push -u origin master
 
 Hope this will be Helpful for you
+
+
+# For Upload code into the new branch follow this.
+1. Go to folder which you want to upload (already exists in github)
+2. Right click select git bash
+
+write command
+
+1. git init
+2. $ git branch <branch_name>
+$ git checkout <branch_name> 
+3 git push -u origin <branch_name>
