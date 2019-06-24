@@ -42,3 +42,8 @@ write command
 2. $ git branch <branch_name>
 $ git checkout <branch_name> 
 3 git push -u origin <branch_name>
+4. Now go to pull-request option in github 
+5. Comapare new branch with previous branch 
+6. Solve Conflicts 
+7. Merge your things
+8. You new brach is created
