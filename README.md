@@ -49,6 +49,6 @@ You new brach is created
 3. git checkout <branch_name> 
 4. git push -u origin <branch_name>
 5. git push -u origin <branch_name>
-6.Now go to pull-request option in github
-7.Comapare new branch with previous branch
-8.Solve Conflicts
+6. Now go to pull-request option in github
+7. Comapare new branch with previous branch
+8. Solve Conflicts
