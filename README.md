@@ -37,8 +37,18 @@ Hope this will be Helpful for you
 2. Right click select git bash
 
 write command
+Go to folder which you want to upload (already exists in github)
+Right click select git bash
+write command
 
+
+Merge your things
+You new brach is created
 1. git init
-2. $ git branch <branch_name>
-$ git checkout <branch_name> 
-3 git push -u origin <branch_name>
+2. git branch <branch_name>
+3. git checkout <branch_name> 
+4. git push -u origin <branch_name>
+5. git push -u origin <branch_name>
+6.Now go to pull-request option in github
+7.Comapare new branch with previous branch
+8.Solve Conflicts
