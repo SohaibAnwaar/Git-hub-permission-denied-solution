@@ -37,7 +37,13 @@ Hope this will be Helpful for you
 2. Right click select git bash
 
 write command
+Go to folder which you want to upload (already exists in github)
+Right click select git bash
+write command
 
+
+Merge your things
+You new brach is created
 1. git init
 2. $ git branch <branch_name>
 $ git checkout <branch_name> 
@@ -47,3 +53,4 @@ $ git checkout <branch_name>
 6. Solve Conflicts 
 7. Merge your things
 8. You new brach is created
+
